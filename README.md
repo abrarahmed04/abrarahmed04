@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Abrar Usman</h1>
 <h3 align="center">🚀 4th-Year Computer Science Student | 💻 Software Developer | 🔍 Passionate Problem Solver</h3>
 
