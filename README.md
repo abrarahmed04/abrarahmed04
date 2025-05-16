@@ -12,17 +12,26 @@
 
 ---
 
-### 🧰 Tech Stack & Tools
+### 🛠️ Tech Stack & Tools
 
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+#### Languages  
+- Python | Java | JavaScript (ES6+) | TypeScript | C | SQL  
+
+#### Web Development  
+- React | Next.js | HTML5 | CSS3 | Bootstrap | Tailwind CSS | REST APIs  
+
+#### Backend & Databases  
+- Node.js | Express.js | Firebase | MongoDB | PostgreSQL | MySQL  
+
+#### Data & Machine Learning  
+- NumPy | Pandas | Matplotlib | Scikit-learn | TensorFlow | PyTorch | Jupyter Notebooks  
+
+#### Cloud & DevOps  
+- AWS (EC2, S3, Lambda) | Google Cloud Platform (GCP) | Docker | Git & GitHub | CI/CD (GitHub Actions)  
+
+#### Tools & Platforms  
+- VS Code | Postman | Jira | Trello | Linux (Ubuntu) | Slack  
+
 
 ---
 
