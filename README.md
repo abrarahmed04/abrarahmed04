@@ -29,14 +29,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abrarahmed04&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrarahmed04&layout=compact&theme=tokyonight" width="48%" />
-</p>
-
----
 
 ### 📌 Featured Projects
 
@@ -50,7 +42,7 @@ Coming soon: Highlights of my personal and academic CS projects, system design b
   <img src="https://img.shields.io/badge/LinkedIn-Abrar%20Usman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:abrarusman04@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-abrarusman04@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-abrarus786@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 ---
