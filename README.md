@@ -5,7 +5,7 @@
 ### 👨‍💻 About Me
 
 🎓 Final-year CS student with strong foundations in data structures & algorithms, software design, computer architecture, operating systems, databases, and distributed systems.  
-💡 Exploring the world of Big Data, Data Science, Machine Learning, and AI — always curious about where tech meets impact.  
+💡 Exploring the world of Big Data, Data Science, Machine Learning, and AI - always curious about where tech meets impact.  
 📚 Currently focused on developing data-driven projects, experimenting with AI tools, and expanding my understanding of intelligent systems.  
 🌱 Lifelong learner - open to opportunities that blend tech, insight, and real-world problem solving.  
 📍 Dual citizen 🇨🇦🇺🇸 based in the Greater Toronto Area & the New York Metropolitan Area - open to remote, hybrid, or in-person roles.
