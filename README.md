@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Abrar Usman</h1>
-<h3 align="center">🚀 4th-Year Computer Science Student | 💻 Software Developer | 🔍 Passionate Problem Solver</h3>
+<h3 align="center">🚀 Computer Science New Grad | 💻 Software Developer | 🔍 Passionate Problem Solver</h3>
 
 ---
 ### 👨‍💻 About Me
 
-🎓 Final-year CS student with strong foundations in data structures & algorithms, software design, computer architecture, operating systems, databases, and distributed systems.  
+🎓 Fresh CS Grad with strong foundations in data structures & algorithms, software design, computer architecture, operating systems, databases, and distributed systems.  
 💡 Exploring the world of Big Data, Data Science, Machine Learning, and AI - always curious about where tech meets impact.  
 📚 Currently focused on developing data-driven projects, experimenting with AI tools, and expanding my understanding of intelligent systems.  
 🌱 Lifelong learner - open to opportunities that blend tech, insight, and real-world problem solving.  
